@@ -1,5 +1,3 @@
-# Laurinharamosss
-
 # 👋 Olá! Eu sou a Laura
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Back-End.
@@ -45,10 +43,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ## 💡 Sobre Mim
 
 - 🎓 Atualmente estudo no Sesi
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- 💻 Estou aprendendo HTML, CSS, JS
+- 🎯 Meu objetivo é...
+- 📚 Gosto de aprender sobre css e back-end
 
 ---
 
